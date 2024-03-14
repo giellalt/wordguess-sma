@@ -1191,7 +1191,6 @@ export const WORDS = [
   'siente',
   'byjves',
   'åtnoes',
-  'hej-jo',
   'guemie',
   'doegka',
   'suajja',
